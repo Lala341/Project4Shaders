@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cacfee3d695422c49a7a61701d0629a4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 2491b66a8c8fa7044a675d8fa53184ed, type: 3}
+  - _HoloNoise: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
